@@ -53,4 +53,4 @@ jobs:
           app-name: 'wapp-2tebvbjw3h5o6'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_159D64B51F7F4614A73FF52F6C7993CA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9F7CB83DD09A41F1A00DB4817AE2F1EC }}
